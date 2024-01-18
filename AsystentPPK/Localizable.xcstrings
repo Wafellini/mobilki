@@ -1,0 +1,113 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " zł" : {
+
+    },
+    "%@ ju." : {
+
+    },
+    "%@ zł" : {
+
+    },
+    "Amount" : {
+
+    },
+    "Comment" : {
+
+    },
+    "Dane" : {
+
+    },
+    "Dane Samochodu" : {
+
+    },
+    "Data" : {
+
+    },
+    "Date" : {
+
+    },
+    "Dodaj samochód" : {
+
+    },
+    "Dodaj wydatek" : {
+
+    },
+    "Edit Expense" : {
+
+    },
+    "Edycja Samochodu" : {
+
+    },
+    "Edytuj" : {
+
+    },
+    "Expense Details" : {
+
+    },
+    "Expense on %@" : {
+
+    },
+    "Expenses" : {
+
+    },
+    "Hello, world!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Witaj Świecie!"
+          }
+        }
+      }
+    },
+    "Kwota wpłaty" : {
+
+    },
+    "Nazwa" : {
+
+    },
+    "Numer rejestracyjny" : {
+
+    },
+    "Numer VIN" : {
+
+    },
+    "Państwo" : {
+
+    },
+    "Pracodawca" : {
+
+    },
+    "Pracownik" : {
+
+    },
+    "Type" : {
+
+    },
+    "W sumie jednostek: " : {
+
+    },
+    "Wartość jednostek: " : {
+
+    },
+    "Wartość jednostki" : {
+
+    },
+    "Wartość jednostki rozliczeniowej" : {
+
+    },
+    "Wpłata" : {
+
+    },
+    "Zapisz" : {
+
+    },
+    "Źródło" : {
+
+    }
+  },
+  "version" : "1.0"
+}
